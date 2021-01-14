@@ -1,4 +1,4 @@
 learn git
 learn github
 for four hours
-learn css
+learning css
